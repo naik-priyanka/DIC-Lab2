@@ -1,0 +1,11 @@
+[{"co_term": "trump", "term": "president", "freq": 130},
+{"co_term": "trump", "term": "immigration", "freq": 113},
+{"co_term": "president", "term": "donald", "freq": 98},
+{"co_term": "trump", "term": "donald", "freq": 92},
+{"co_term": "trump", "term": "said", "freq": 80},
+{"co_term": "said", "term": "immigration", "freq": 75},
+{"co_term": "president", "term": "immigration", "freq": 71},
+{"co_term": "trump", "term": "border", "freq": 65},
+{"co_term": "trump", "term": "administration", "freq": 60},
+{"co_term": "president", "term": "border", "freq": 58},
+]
