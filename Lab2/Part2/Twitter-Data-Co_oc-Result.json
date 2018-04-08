@@ -1,0 +1,52 @@
+[
+	{
+		"co_term": "trump", 
+		"term": "immigration", 
+		"freq": 1093
+	},
+	{
+		"co_term": "trump", 
+		"term": "president", 
+		"freq": 878
+	},
+	{
+		"co_term": "visa",
+		"term": "donald", 
+		"freq": 563
+	},
+	{
+		"co_term": "trump", 
+		"term": "h1b", 
+		"freq": 326
+	},
+	{
+		"co_term": "trump", 
+		"term": "donald", 
+		"freq": 204
+	},
+	{
+		"co_term": "president", 
+		"term": "immigration", 
+		"freq": 198
+	},
+	{
+		"co_term": "deport", 
+		"term": "immigration", 
+		"freq": 167
+	},
+	{	
+		"co_term": "trump", 
+		"term": "policies", 
+		"freq": 143
+	},
+	{
+		"co_term": "trump", 
+		"term": "administration", 
+		"freq": 78
+	},
+	{
+		"co_term": "president", 
+		"term": "border", 
+		"freq": 34
+	},
+]
